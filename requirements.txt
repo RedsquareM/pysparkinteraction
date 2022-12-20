@@ -1,7 +1,7 @@
-The db built can be accessed using the following command (on your terminal)
 
-1. # viewing he data inside PostgreSQL DB
 
-    $ psql -h localhost -U postgres -d sampledb
+ # validate the data in database 
+
+    $ psql -h localhost -U postgres -d fooddb
 
 
