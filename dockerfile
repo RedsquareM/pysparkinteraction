@@ -7,7 +7,7 @@ COPY ./data ./data
 
 COPY ./project.ipynb ./project.ipynb
 
-COPY ./INFO.txt ./INFO.txt
+COPY ./requirements.txt ./requirements.txt
 
 COPY ./dataextract.py ./dataextract.py
 
