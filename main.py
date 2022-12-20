@@ -6,7 +6,7 @@ if __name__ == '__main__':
     # only 1000 rows 
     path = '../data/data.csv'
 
-    DH = DataHandler()
+    DH = DataExtract()
 
     DH.readData(path)
 
