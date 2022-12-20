@@ -5,7 +5,7 @@ WORKDIR /main
 
 COPY ./data ./data
 
-COPY ./project.ipynb ./project.ipynb
+COPY ./preprocess.ipynb ./preprocess.ipynb
 
 COPY ./requirements.txt ./requirements.txt
 
